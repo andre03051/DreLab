@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "Adam",
+    "Year Born": 0,
+    "Year Died": 930,
+    "Covenant": "Adamic"
+  },
+  {
+    "Name": "Seth",
+    "Year Born": 130,
+    "Year Died": 1042,
+    "Covenant": "Adamic"
+  },
+  {
+    "Name": "Enosh",
+    "Year Born": 235,
+    "Year Died": 1140,
+    "Covenant": "Adamic"
+  },
+  {
+    "Name": "Kenan",
+    "Year Born": 325,
+    "Year Died": 1235,
+    "Covenant": "Adamic"
+  },
+  {
+    "Name": "Mahal′alel",
+    "Year Born": 395,
+    "Year Died": 1290,
+    "Covenant": "Adamic"
+  },
+  {
+    "Name": "Jared",
+    "Year Born": 460,
+    "Year Died": 1422,
+    "Covenant": "Adamic"
+  },
+  {
+    "Name": "Enoch",
+    "Year Born": 622,
+    "Year Died": 987,
+    "Covenant": "Adamic"
+  },
+  {
+    "Name": "Methu′selah",
+    "Year Born": 687,
+    "Year Died": 1656,
+    "Covenant": "Adamic"
+  },
+  {
+    "Name": "Lamech",
+    "Year Born": 874,
+    "Year Died": 1651,
+    "Covenant": "Adamic"
+  },
+  {
+    "Name": "Noah",
+    "Year Born": 1056,
+    "Year Died": 2006,
+    "Covenant": "Noahic"
+  },
+  {
+    "Name": "Shem",
+    "Year Born": 1556,
+    "Year Died": 2156,
+    "Covenant": "Noahic"
+  },
+  {
+    "Name": "Arpachshad",
+    "Year Born": 1656,
+    "Year Died": 2121,
+    "Covenant": "Noahic"
+  },
+  {
+    "Name": "Shelah",
+    "Year Born": 1691,
+    "Year Died": 2121,
+    "Covenant": "Noahic"
+  },
+  {
+    "Name": "Eber",
+    "Year Born": 1721,
+    "Year Died": 2185,
+    "Covenant": "Noahic"
+  },
+  {
+    "Name": "Peleg",
+    "Year Born": 1755,
+    "Year Died": 1994,
+    "Covenant": "Noahic"
+  },
+  {
+    "Name": "Reu",
+    "Year Born": 1785,
+    "Year Died": 2024,
+    "Covenant": "Noahic"
+  },
+  {
+    "Name": "Serug",
+    "Year Born": 1817,
+    "Year Died": 2047,
+    "Covenant": "Noahic"
+  },
+  {
+    "Name": "Nahor",
+    "Year Born": 1847,
+    "Year Died": 1995,
+    "Covenant": "Noahic"
+  },
+  {
+    "Name": "Terah",
+    "Year Born": 1876,
+    "Year Died": 2081,
+    "Covenant": "Noahic"
+  },
+  {
+    "Name": "Abram",
+    "Year Born": 1946,
+    "Year Died": 2121,
+    "Covenant": "Abrahamic"
+  }
+]
