@@ -1,0 +1,722 @@
+[
+  {
+    "Psalm": 3,
+    "Type": "Lament",
+    "Versus": 9,
+    "Book": 1
+  },
+  {
+    "Psalm": 7,
+    "Type": "Lament",
+    "Versus": 18,
+    "Book": 1
+  },
+  {
+    "Psalm": 13,
+    "Type": "Lament",
+    "Versus": 6,
+    "Book": 1
+  },
+  {
+    "Psalm": 22,
+    "Type": "Lament",
+    "Versus": 32,
+    "Book": 1
+  },
+  {
+    "Psalm": 28,
+    "Type": "Lament",
+    "Versus": 9,
+    "Book": 1
+  },
+  {
+    "Psalm": 53,
+    "Type": "Lament",
+    "Versus": 7,
+    "Book": 2
+  },
+  {
+    "Psalm": 56,
+    "Type": "Lament",
+    "Versus": 14,
+    "Book": 2
+  },
+  {
+    "Psalm": 77,
+    "Type": "Lament",
+    "Versus": 21,
+    "Book": 3
+  },
+  {
+    "Psalm": 90,
+    "Type": "Lament",
+    "Versus": 17,
+    "Book": 4
+  },
+  {
+    "Psalm": 120,
+    "Type": "Lament",
+    "Versus": 7,
+    "Book": 5
+  },
+  {
+    "Psalm": 143,
+    "Type": "Lament",
+    "Versus": 12,
+    "Book": 5
+  },
+  {
+    "Psalm": 5,
+    "Type": "Lament",
+    "Versus": 13,
+    "Book": 1
+  },
+  {
+    "Psalm": 10,
+    "Type": "Lament",
+    "Versus": 18,
+    "Book": 1
+  },
+  {
+    "Psalm": 14,
+    "Type": "Lament",
+    "Versus": 7,
+    "Book": 1
+  },
+  {
+    "Psalm": 25,
+    "Type": "Lament",
+    "Versus": 22,
+    "Book": 1
+  },
+  {
+    "Psalm": 31,
+    "Type": "Lament",
+    "Versus": 25,
+    "Book": 1
+  },
+  {
+    "Psalm": 54,
+    "Type": "Lament",
+    "Versus": 9,
+    "Book": 2
+  },
+  {
+    "Psalm": 60,
+    "Type": "Lament",
+    "Versus": 14,
+    "Book": 2
+  },
+  {
+    "Psalm": 82,
+    "Type": "Lament",
+    "Versus": 8,
+    "Book": 3
+  },
+  {
+    "Psalm": 94,
+    "Type": "Lament",
+    "Versus": 23,
+    "Book": 4
+  },
+  {
+    "Psalm": 130,
+    "Type": "Lament",
+    "Versus": 8,
+    "Book": 5
+  },
+  {
+    "Psalm": 6,
+    "Type": "Lament",
+    "Versus": 11,
+    "Book": 1
+  },
+  {
+    "Psalm": 12,
+    "Type": "Lament",
+    "Versus": 9,
+    "Book": 1
+  },
+  {
+    "Psalm": 17,
+    "Type": "Lament",
+    "Versus": 15,
+    "Book": 1
+  },
+  {
+    "Psalm": 26,
+    "Type": "Lament",
+    "Versus": 11,
+    "Book": 1
+  },
+  {
+    "Psalm": 44,
+    "Type": "Lament",
+    "Versus": 27,
+    "Book": 2
+  },
+  {
+    "Psalm": 55,
+    "Type": "Lament",
+    "Versus": 24,
+    "Book": 2
+  },
+  {
+    "Psalm": 69,
+    "Type": "Lament",
+    "Versus": 37,
+    "Book": 2
+  },
+  {
+    "Psalm": 86,
+    "Type": "Lament",
+    "Versus": 17,
+    "Book": 3
+  },
+  {
+    "Psalm": 106,
+    "Type": "Lament",
+    "Versus": 48,
+    "Book": 4
+  },
+  {
+    "Psalm": 141,
+    "Type": "Lament",
+    "Versus": 10,
+    "Book": 5
+  },
+  {
+    "Psalm": 8,
+    "Type": "Praise",
+    "Versus": 10,
+    "Book": 1
+  },
+  {
+    "Psalm": 24,
+    "Type": "Praise",
+    "Versus": 10,
+    "Book": 1
+  },
+  {
+    "Psalm": 33,
+    "Type": "Praise",
+    "Versus": 22,
+    "Book": 1
+  },
+  {
+    "Psalm": 40,
+    "Type": "Praise",
+    "Versus": 18,
+    "Book": 1
+  },
+  {
+    "Psalm": 54,
+    "Type": "Praise",
+    "Versus": 9,
+    "Book": 2
+  },
+  {
+    "Psalm": 65,
+    "Type": "Praise",
+    "Versus": 14,
+    "Book": 2
+  },
+  {
+    "Psalm": 75,
+    "Type": "Praise",
+    "Versus": 11,
+    "Book": 3
+  },
+  {
+    "Psalm": 87,
+    "Type": "Praise",
+    "Versus": 7,
+    "Book": 3
+  },
+  {
+    "Psalm": 95,
+    "Type": "Praise",
+    "Versus": 11,
+    "Book": 4
+  },
+  {
+    "Psalm": 101,
+    "Type": "Praise",
+    "Versus": 8,
+    "Book": 4
+  },
+  {
+    "Psalm": 105,
+    "Type": "Praise",
+    "Versus": 45,
+    "Book": 4
+  },
+  {
+    "Psalm": 108,
+    "Type": "Praise",
+    "Versus": 14,
+    "Book": 5
+  },
+  {
+    "Psalm": 112,
+    "Type": "Praise",
+    "Versus": 10,
+    "Book": 5
+  },
+  {
+    "Psalm": 118,
+    "Type": "Praise",
+    "Versus": 29,
+    "Book": 5
+  },
+  {
+    "Psalm": 133,
+    "Type": "Praise",
+    "Versus": 3,
+    "Book": 5
+  },
+  {
+    "Psalm": 139,
+    "Type": "Praise",
+    "Versus": 24,
+    "Book": 5
+  },
+  {
+    "Psalm": 9,
+    "Type": "Praise",
+    "Versus": 21,
+    "Book": 1
+  },
+  {
+    "Psalm": 27,
+    "Type": "Praise",
+    "Versus": 14,
+    "Book": 1
+  },
+  {
+    "Psalm": 34,
+    "Type": "Praise",
+    "Versus": 23,
+    "Book": 1
+  },
+  {
+    "Psalm": 46,
+    "Type": "Praise",
+    "Versus": 12,
+    "Book": 2
+  },
+  {
+    "Psalm": 57,
+    "Type": "Praise",
+    "Versus": 12,
+    "Book": 2
+  },
+  {
+    "Psalm": 66,
+    "Type": "Praise",
+    "Versus": 20,
+    "Book": 2
+  },
+  {
+    "Psalm": 76,
+    "Type": "Praise",
+    "Versus": 13,
+    "Book": 3
+  },
+  {
+    "Psalm": 91,
+    "Type": "Praise",
+    "Versus": 16,
+    "Book": 4
+  },
+  {
+    "Psalm": 98,
+    "Type": "Praise",
+    "Versus": 9,
+    "Book": 4
+  },
+  {
+    "Psalm": 103,
+    "Type": "Praise",
+    "Versus": 22,
+    "Book": 4
+  },
+  {
+    "Psalm": 106,
+    "Type": "Praise",
+    "Versus": 48,
+    "Book": 4
+  },
+  {
+    "Psalm": 110,
+    "Type": "Praise",
+    "Versus": 7,
+    "Book": 5
+  },
+  {
+    "Psalm": 116,
+    "Type": "Praise",
+    "Versus": 19,
+    "Book": 5
+  },
+  {
+    "Psalm": 124,
+    "Type": "Praise",
+    "Versus": 8,
+    "Book": 5
+  },
+  {
+    "Psalm": 135,
+    "Type": "Praise",
+    "Versus": 21,
+    "Book": 5
+  },
+  {
+    "Psalm": 145,
+    "Type": "Praise",
+    "Versus": 21,
+    "Book": 5
+  },
+  {
+    "Psalm": 19,
+    "Type": "Praise",
+    "Versus": 15,
+    "Book": 1
+  },
+  {
+    "Psalm": 30,
+    "Type": "Praise",
+    "Versus": 13,
+    "Book": 1
+  },
+  {
+    "Psalm": 36,
+    "Type": "Praise",
+    "Versus": 13,
+    "Book": 1
+  },
+  {
+    "Psalm": 48,
+    "Type": "Praise",
+    "Versus": 15,
+    "Book": 2
+  },
+  {
+    "Psalm": 61,
+    "Type": "Praise",
+    "Versus": 9,
+    "Book": 2
+  },
+  {
+    "Psalm": 67,
+    "Type": "Praise",
+    "Versus": 8,
+    "Book": 2
+  },
+  {
+    "Psalm": 81,
+    "Type": "Praise",
+    "Versus": 17,
+    "Book": 3
+  },
+  {
+    "Psalm": 92,
+    "Type": "Praise",
+    "Versus": 16,
+    "Book": 4
+  },
+  {
+    "Psalm": 100,
+    "Type": "Praise",
+    "Versus": 5,
+    "Book": 4
+  },
+  {
+    "Psalm": 104,
+    "Type": "Praise",
+    "Versus": 35,
+    "Book": 4
+  },
+  {
+    "Psalm": 107,
+    "Type": "Praise",
+    "Versus": 43,
+    "Book": 5
+  },
+  {
+    "Psalm": 111,
+    "Type": "Praise",
+    "Versus": 10,
+    "Book": 5
+  },
+  {
+    "Psalm": 117,
+    "Type": "Praise",
+    "Versus": 2,
+    "Book": 5
+  },
+  {
+    "Psalm": 128,
+    "Type": "Praise",
+    "Versus": 6,
+    "Book": 5
+  },
+  {
+    "Psalm": 136,
+    "Type": "Praise",
+    "Versus": 26,
+    "Book": 5
+  },
+  {
+    "Psalm": 150,
+    "Type": "Praise",
+    "Versus": 6,
+    "Book": 5
+  },
+  {
+    "Psalm": 4,
+    "Type": "Trust",
+    "Versus": 9,
+    "Book": 1
+  },
+  {
+    "Psalm": 23,
+    "Type": "Trust",
+    "Versus": 6,
+    "Book": 1
+  },
+  {
+    "Psalm": 91,
+    "Type": "Trust",
+    "Versus": 16,
+    "Book": 4
+  },
+  {
+    "Psalm": 131,
+    "Type": "Trust",
+    "Versus": 3,
+    "Book": 5
+  },
+  {
+    "Psalm": 11,
+    "Type": "Trust",
+    "Versus": 7,
+    "Book": 1
+  },
+  {
+    "Psalm": 46,
+    "Type": "Trust",
+    "Versus": 12,
+    "Book": 2
+  },
+  {
+    "Psalm": 115,
+    "Type": "Trust",
+    "Versus": 18,
+    "Book": 5
+  },
+  {
+    "Psalm": 16,
+    "Type": "Trust",
+    "Versus": 11,
+    "Book": 1
+  },
+  {
+    "Psalm": 62,
+    "Type": "Trust",
+    "Versus": 13,
+    "Book": 2
+  },
+  {
+    "Psalm": 125,
+    "Type": "Trust",
+    "Versus": 5,
+    "Book": 5
+  },
+  {
+    "Psalm": 29,
+    "Type": "Hymn",
+    "Versus": 11,
+    "Book": 1
+  },
+  {
+    "Psalm": 98,
+    "Type": "Hymn",
+    "Versus": 9,
+    "Book": 4
+  },
+  {
+    "Psalm": 104,
+    "Type": "Hymn",
+    "Versus": 35,
+    "Book": 4
+  },
+  {
+    "Psalm": 113,
+    "Type": "Hymn",
+    "Versus": 9,
+    "Book": 5
+  },
+  {
+    "Psalm": 121,
+    "Type": "Hymn",
+    "Versus": 8,
+    "Book": 5
+  },
+  {
+    "Psalm": 149,
+    "Type": "Hymn",
+    "Versus": 9,
+    "Book": 5
+  },
+  {
+    "Psalm": 95,
+    "Type": "Hymn",
+    "Versus": 11,
+    "Book": 4
+  },
+  {
+    "Psalm": 99,
+    "Type": "Hymn",
+    "Versus": 9,
+    "Book": 4
+  },
+  {
+    "Psalm": 111,
+    "Type": "Hymn",
+    "Versus": 10,
+    "Book": 5
+  },
+  {
+    "Psalm": 114,
+    "Type": "Hymn",
+    "Versus": 8,
+    "Book": 5
+  },
+  {
+    "Psalm": 136,
+    "Type": "Hymn",
+    "Versus": 26,
+    "Book": 5
+  },
+  {
+    "Psalm": 97,
+    "Type": "Hymn",
+    "Versus": 12,
+    "Book": 4
+  },
+  {
+    "Psalm": 103,
+    "Type": "Hymn",
+    "Versus": 22,
+    "Book": 4
+  },
+  {
+    "Psalm": 112,
+    "Type": "Hymn",
+    "Versus": 10,
+    "Book": 5
+  },
+  {
+    "Psalm": 117,
+    "Type": "Hymn",
+    "Versus": 2,
+    "Book": 5
+  },
+  {
+    "Psalm": 147,
+    "Type": "Hymn",
+    "Versus": 20,
+    "Book": 5
+  },
+  {
+    "Psalm": 2,
+    "Type": "Royal",
+    "Versus": 12,
+    "Book": 1
+  },
+  {
+    "Psalm": 21,
+    "Type": "Royal",
+    "Versus": 14,
+    "Book": 1
+  },
+  {
+    "Psalm": 89,
+    "Type": "Royal",
+    "Versus": 53,
+    "Book": 4
+  },
+  {
+    "Psalm": 144,
+    "Type": "Royal",
+    "Versus": 15,
+    "Book": 5
+  },
+  {
+    "Psalm": 18,
+    "Type": "Royal",
+    "Versus": 51,
+    "Book": 1
+  },
+  {
+    "Psalm": 45,
+    "Type": "Royal",
+    "Versus": 18,
+    "Book": 2
+  },
+  {
+    "Psalm": 101,
+    "Type": "Royal",
+    "Versus": 8,
+    "Book": 4
+  },
+  {
+    "Psalm": 20,
+    "Type": "Royal",
+    "Versus": 10,
+    "Book": 1
+  },
+  {
+    "Psalm": 72,
+    "Type": "Royal",
+    "Versus": 20,
+    "Book": 2
+  },
+  {
+    "Psalm": 132,
+    "Type": "Royal",
+    "Versus": 18,
+    "Book": 5
+  },
+  {
+    "Psalm": 37,
+    "Type": "Wisdom",
+    "Versus": 40,
+    "Book": 1
+  },
+  {
+    "Psalm": 119,
+    "Type": "Wisdom",
+    "Versus": 176,
+    "Book": 5
+  },
+  {
+    "Psalm": 49,
+    "Type": "Wisdom",
+    "Versus": 21,
+    "Book": 2
+  },
+  {
+    "Psalm": 127,
+    "Type": "Wisdom",
+    "Versus": 5,
+    "Book": 5
+  },
+  {
+    "Psalm": 52,
+    "Type": "Wisdom",
+    "Versus": 11,
+    "Book": 2
+  }
+]
